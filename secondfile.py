@@ -1,2 +1,2 @@
 print "wworld"
-print "hello"
+print "hello world"
